@@ -1,0 +1,60 @@
+body{
+    background-color:aliceblue;
+
+}
+.images{
+    width: 80px;
+  height: 100px;
+    border-top: 5px solid;
+    border-left:5px solid;
+    border-right:5px solid;
+    border-bottom:5px solid;
+    border-width :5px;
+    overflow-clip-margin: content-box;
+    overflow: clip;
+    text-align:right;
+}
+.Aboutcls{
+    display:flex;
+    flex-direction: row;
+}
+.info{
+
+text-align:center;
+}
+
+ .l{
+    border-top: 2px solid;
+    border-left: 2px solid;
+    border-right:2px solid;
+    border-bottom:2px solid;
+    padding:10px 20px;
+    margin:12px;
+    
+} 
+th,td{
+    border:1px solid black;
+}
+table {
+    width:100%;
+    border-spacing: 0px;
+}
+.l2{
+    text-align:left;
+}
+.personnel{
+    text-align:center;
+    height:100%;
+    width:100%;
+}
+.sk{
+    text-align:center;
+    }
+
+.pj{
+    text-align:center;
+}
+.Education{
+    text-align:center;
+
+}
